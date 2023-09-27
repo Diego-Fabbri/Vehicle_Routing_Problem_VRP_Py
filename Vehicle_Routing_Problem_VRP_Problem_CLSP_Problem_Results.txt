@@ -1,0 +1,252 @@
+Time = 220.76
+Total Cost (Obj value) = 679.27
+Solver Status is = ok
+Termination Condition is = optimal
+ 
+Value of Variables x[i,j]
+x[ 2 ][  22 ]:  1.0
+x[ 3 ][  6 ]:  1.0
+x[ 4 ][  10 ]:  1.0
+x[ 5 ][  1 ]:  1.0
+x[ 6 ][  29 ]:  1.0
+x[ 7 ][  28 ]:  1.0
+x[ 8 ][  23 ]:  1.0
+x[ 9 ][  1 ]:  1.0
+x[ 10 ][  1 ]:  1.0
+x[ 11 ][  17 ]:  1.0
+x[ 12 ][  14 ]:  1.0
+x[ 13 ][  16 ]:  1.0
+x[ 14 ][  1 ]:  1.0
+x[ 15 ][  4 ]:  1.0
+x[ 16 ][  3 ]:  1.0
+x[ 17 ][  8 ]:  1.0
+x[ 18 ][  2 ]:  1.0
+x[ 19 ][  11 ]:  1.0
+x[ 20 ][  18 ]:  1.0
+x[ 21 ][  19 ]:  1.0
+x[ 22 ][  15 ]:  1.0
+x[ 23 ][  1 ]:  1.0
+x[ 24 ][  9 ]:  1.0
+x[ 25 ][  31 ]:  1.0
+x[ 26 ][  25 ]:  1.0
+x[ 27 ][  5 ]:  1.0
+x[ 28 ][  12 ]:  1.0
+x[ 29 ][  7 ]:  1.0
+x[ 30 ][  26 ]:  1.0
+x[ 31 ][  24 ]:  1.0
+ 
+Value of Variables f[i,j]
+f[ 2 ][  22 ]:  39.0
+f[ 3 ][  6 ]:  59.0
+f[ 4 ][  10 ]:  5.0
+f[ 5 ][  1 ]:  72.0
+f[ 6 ][  29 ]:  57.0
+f[ 7 ][  28 ]:  27.0
+f[ 8 ][  23 ]:  12.0
+f[ 9 ][  1 ]:  7.0
+f[ 11 ][  17 ]:  48.0
+f[ 12 ][  14 ]:  7.0
+f[ 13 ][  16 ]:  73.0
+f[ 15 ][  4 ]:  10.0
+f[ 16 ][  3 ]:  63.0
+f[ 17 ][  8 ]:  31.0
+f[ 18 ][  2 ]:  56.0
+f[ 19 ][  11 ]:  60.0
+f[ 20 ][  18 ]:  76.0
+f[ 21 ][  19 ]:  78.0
+f[ 22 ][  15 ]:  19.0
+f[ 24 ][  9 ]:  24.0
+f[ 25 ][  31 ]:  48.0
+f[ 26 ][  25 ]:  67.0
+f[ 27 ][  5 ]:  82.0
+f[ 28 ][  12 ]:  14.0
+f[ 29 ][  7 ]:  40.0
+f[ 30 ][  26 ]:  84.0
+f[ 31 ][  24 ]:  32.0
+ 
+In node  1 : 
+---> In_Flow value is:  79.0
+---> Out_Flow value is:  443.0
+---> In_Flow - Out_Flow is:  -364.0
+---> Demand value is:  0
+ 
+In node  2 : 
+---> In_Flow value is:  56.0
+---> Out_Flow value is:  39.0
+---> In_Flow - Out_Flow is:  17.0
+---> Demand value is:  17
+ 
+In node  3 : 
+---> In_Flow value is:  63.0
+---> Out_Flow value is:  59.0
+---> In_Flow - Out_Flow is:  4.0
+---> Demand value is:  4
+ 
+In node  4 : 
+---> In_Flow value is:  9.99999999999999
+---> Out_Flow value is:  4.99999999999999
+---> In_Flow - Out_Flow is:  4.999999999999999
+---> Demand value is:  5
+ 
+In node  5 : 
+---> In_Flow value is:  82.0
+---> Out_Flow value is:  72.0
+---> In_Flow - Out_Flow is:  10.0
+---> Demand value is:  10
+ 
+In node  6 : 
+---> In_Flow value is:  59.0
+---> Out_Flow value is:  57.0
+---> In_Flow - Out_Flow is:  2.0
+---> Demand value is:  2
+ 
+In node  7 : 
+---> In_Flow value is:  40.0
+---> Out_Flow value is:  27.0
+---> In_Flow - Out_Flow is:  13.0
+---> Demand value is:  13
+ 
+In node  8 : 
+---> In_Flow value is:  31.0
+---> Out_Flow value is:  12.0
+---> In_Flow - Out_Flow is:  19.0
+---> Demand value is:  19
+ 
+In node  9 : 
+---> In_Flow value is:  24.0
+---> Out_Flow value is:  7.0
+---> In_Flow - Out_Flow is:  17.0
+---> Demand value is:  17
+ 
+In node  10 : 
+---> In_Flow value is:  4.99999999999999
+---> Out_Flow value is:  0.0
+---> In_Flow - Out_Flow is:  4.99999999999999
+---> Demand value is:  5
+ 
+In node  11 : 
+---> In_Flow value is:  60.0
+---> Out_Flow value is:  48.0
+---> In_Flow - Out_Flow is:  12.0
+---> Demand value is:  12
+ 
+In node  12 : 
+---> In_Flow value is:  14.0
+---> Out_Flow value is:  7.0
+---> In_Flow - Out_Flow is:  7.0
+---> Demand value is:  7
+ 
+In node  13 : 
+---> In_Flow value is:  87.0
+---> Out_Flow value is:  73.0
+---> In_Flow - Out_Flow is:  14.0
+---> Demand value is:  14
+ 
+In node  14 : 
+---> In_Flow value is:  7.0
+---> Out_Flow value is:  0.0
+---> In_Flow - Out_Flow is:  7.0
+---> Demand value is:  7
+ 
+In node  15 : 
+---> In_Flow value is:  19.0
+---> Out_Flow value is:  9.99999999999999
+---> In_Flow - Out_Flow is:  9.00000000000001
+---> Demand value is:  9
+ 
+In node  16 : 
+---> In_Flow value is:  73.0
+---> Out_Flow value is:  63.0
+---> In_Flow - Out_Flow is:  10.0
+---> Demand value is:  10
+ 
+In node  17 : 
+---> In_Flow value is:  48.0
+---> Out_Flow value is:  31.0
+---> In_Flow - Out_Flow is:  17.0
+---> Demand value is:  17
+ 
+In node  18 : 
+---> In_Flow value is:  76.0
+---> Out_Flow value is:  56.0
+---> In_Flow - Out_Flow is:  20.0
+---> Demand value is:  20
+ 
+In node  19 : 
+---> In_Flow value is:  78.0
+---> Out_Flow value is:  60.0
+---> In_Flow - Out_Flow is:  18.0
+---> Demand value is:  18
+ 
+In node  20 : 
+---> In_Flow value is:  90.0
+---> Out_Flow value is:  76.0
+---> In_Flow - Out_Flow is:  14.0
+---> Demand value is:  14
+ 
+In node  21 : 
+---> In_Flow value is:  86.0
+---> Out_Flow value is:  78.0
+---> In_Flow - Out_Flow is:  8.0
+---> Demand value is:  8
+ 
+In node  22 : 
+---> In_Flow value is:  39.0
+---> Out_Flow value is:  19.0
+---> In_Flow - Out_Flow is:  20.0
+---> Demand value is:  20
+ 
+In node  23 : 
+---> In_Flow value is:  12.0
+---> Out_Flow value is:  0.0
+---> In_Flow - Out_Flow is:  12.0
+---> Demand value is:  12
+ 
+In node  24 : 
+---> In_Flow value is:  32.0
+---> Out_Flow value is:  24.0
+---> In_Flow - Out_Flow is:  8.0
+---> Demand value is:  8
+ 
+In node  25 : 
+---> In_Flow value is:  67.0
+---> Out_Flow value is:  48.0
+---> In_Flow - Out_Flow is:  19.0
+---> Demand value is:  19
+ 
+In node  26 : 
+---> In_Flow value is:  84.0
+---> Out_Flow value is:  67.0
+---> In_Flow - Out_Flow is:  17.0
+---> Demand value is:  17
+ 
+In node  27 : 
+---> In_Flow value is:  90.0
+---> Out_Flow value is:  82.0
+---> In_Flow - Out_Flow is:  8.0
+---> Demand value is:  8
+ 
+In node  28 : 
+---> In_Flow value is:  27.0
+---> Out_Flow value is:  14.0
+---> In_Flow - Out_Flow is:  13.0
+---> Demand value is:  13
+ 
+In node  29 : 
+---> In_Flow value is:  57.0
+---> Out_Flow value is:  40.0
+---> In_Flow - Out_Flow is:  17.0
+---> Demand value is:  17
+ 
+In node  30 : 
+---> In_Flow value is:  90.0
+---> Out_Flow value is:  84.0
+---> In_Flow - Out_Flow is:  6.0
+---> Demand value is:  6
+ 
+In node  31 : 
+---> In_Flow value is:  48.0
+---> Out_Flow value is:  32.0
+---> In_Flow - Out_Flow is:  16.0
+---> Demand value is:  16
+ 
